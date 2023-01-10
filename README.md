@@ -1,6 +1,7 @@
 # airodump
 
 ## requirement
+- python 3.9+
 - pcap
 - dpkg
 - json
