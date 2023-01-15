@@ -1,4 +1,4 @@
-# airodump.py
+# airodump-py
 
 ## requirement
 - python 3.9+
