@@ -8,5 +8,6 @@
 
 ## usage
 ```
-airodump.py <interface>
+syntax: python airodump.py <interface>
+example: python airodump.py wlan0
 ```
