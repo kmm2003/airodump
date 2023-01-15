@@ -8,5 +8,5 @@
 
 ## usage
 ```
-airodump.py [network interface]
+airodump.py <interface>
 ```
