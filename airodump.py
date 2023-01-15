@@ -37,8 +37,8 @@ def essid(pkt):
       if flag == 0:
           leng = pkt[i+1]
           for j in range(i+2,i+2+leng):
-              essid=essid+chr(pkt[j])
-          if essid == '':
+              essid = essid+chr(pkt[j])
+          if essid[0] == '\u0000':
               return "This is Hidden API"
           return essid
 
