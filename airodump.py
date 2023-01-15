@@ -70,7 +70,7 @@ def sniffer(interface):
               if chk == 0:
                   raise Exception()
               print_log()
-              time.sleep(1)
+              #time.sleep(1)
       except:
           pass
 
