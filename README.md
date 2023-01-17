@@ -7,6 +7,8 @@
 - json
 
 ## usage
+First, "pip install -r requirements.txt"
+
 ```
 syntax: python airodump.py <interface>
 example: python airodump.py wlan0
